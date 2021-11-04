@@ -317,6 +317,11 @@ body
 	background-image:url(../images/layout/details_box_center.gif);
 	padding:5px;
 }
+.big_box_small
+{
+	width: 250px;
+
+}
 .big_box_img
 {
 	width:200px;
