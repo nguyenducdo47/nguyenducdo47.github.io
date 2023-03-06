@@ -3,7 +3,7 @@
 A music player use ZingMp3 API
 
 ## Live Demo
-- [http://phamhiep2506.com](http://phamhiep2506.com)
+- [https://play-music-zingmp3.vercel.app/]
 
 ## Main technology
 - [react](https://github.com/facebook/react)
@@ -29,7 +29,7 @@ $ yarn start # npm run start
 ## Install App
 - Clone the project
 ```shell
-$ git clone https://github.com/phamhiep2506/music-player
+$ git clone https://play-music-zingmp3.vercel.app/
 ```
 - Install package dependencies
 ```shell
@@ -59,5 +59,3 @@ $ yarn start # npm run start
 
 ![Screenshot from 2022-06-25 14-13-33](https://user-images.githubusercontent.com/64464369/175762985-36c33cd4-3603-4cd4-a4a5-79dbc32b1bea.png)
 
-## CONTRIBUTING
-[CONTRIBUTING.md](https://github.com/phamhiep2506/music-player/blob/master/CONTRIBUTING.md)
