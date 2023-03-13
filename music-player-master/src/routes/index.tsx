@@ -8,6 +8,8 @@ import Artist from "../pages/Artist"
 import Search from "../pages/Search"
 import MV from "../pages/MV"
 import DetailMV from "../pages/DetailMV"
+import Register from '../api/Register';
+import Login from '../api/Login';
 
 const RouterPage: React.FC = () => {
   return (
@@ -27,6 +29,8 @@ const RouterPage: React.FC = () => {
       </Route>
       <Route path="/mv" element={<MV />} />
       <Route path="/mv/:id" element={<DetailMV />} />
+      <Route path="/register" element={<Register />} />
+      <Route path="/login" element={<Login />} />
     </Routes>
   )
 }

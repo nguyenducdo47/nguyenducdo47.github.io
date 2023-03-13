@@ -1,7 +1,9 @@
 import React from "react"
+
 import Search from "./SearchBox"
 import NavArrows from "./NavArrows"
 import NavLinks from "./NavLinks"
+
 
 const Navbar: React.FC = () => {
   return (
@@ -16,6 +18,8 @@ const Navbar: React.FC = () => {
         <NavLinks toLink="/zingchart" titleLink="ZingChart" />
         <NavLinks toLink="/top100" titleLink="Top100" />
         <NavLinks toLink="/mv" titleLink="MV" />
+        <NavLinks toLink="/Login" titleLink="Đăng Nhập" />
+        <NavLinks toLink="/Register" titleLink="Đăng kí" />
       </div>
       {/* End Navigation Links */}
 

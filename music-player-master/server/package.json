@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "phamhiep2506 <phamhiep25062k@gmail.com>",
+  "author": "nguyenducdo <nguyenducdo009@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.16"
@@ -18,4 +18,6 @@
     "express": "^4.18.1",
     "zingmp3-api-full": "^1.0.14"
   }
+  
 }
+
