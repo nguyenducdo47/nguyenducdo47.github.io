@@ -29,7 +29,7 @@ $ yarn start # npm run start
 ## Install App
 - Clone the project
 ```shell
-$ git clone https://play-music-zingmp3.vercel.app/
+$ git clone https://github.com/nguyenducdo47/nguyenducdo47.github.io.git
 ```
 - Install package dependencies
 ```shell
